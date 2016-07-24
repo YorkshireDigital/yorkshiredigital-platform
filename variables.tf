@@ -1,3 +1,3 @@
 variable "image_id" {
-	default = "img-jxfq8"
+	default = "img-p1xz5"
 }
